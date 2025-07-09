@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => (
   <header className="site-header">
     <div className="nav-container">
-      <div className="logo">MyPortfolio</div>
+      <div className="logo">Niki-page</div>
       <nav>
         <ul className="nav-list">
           <li><a href="#home">Home</a></li>
