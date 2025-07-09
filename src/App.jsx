@@ -25,7 +25,7 @@ function App() {
         </section>
         <section id="about" className="about-section">
           <h2>About Me</h2>
-          <p>I am a student at the Profesional gymnasium of telecomunications. I am interested in programing and I am currently learning React.js and JacvaScript. I have a passion for computers and I love to build my own PC amd modifing consoles such as Sony Playstation.</p>
+          <p>I am a student at the Professional Gymnasium of Telecommunications. I am interested in programming and I am currently learning Node.js, React and JavaScript. I have a passion for computers and I love to build my own PCs and modifing consoles, such as Sony Playstation.</p>
           
         </section>
         <section id="projects" className="projects-section">
